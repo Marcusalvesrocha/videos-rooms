@@ -64,3 +64,5 @@ group :development do
   # gem "spring"
 end
 
+#ActiveModelSerializers brings convention over configuration to your JSON generation.
+gem 'active_model_serializers', '~> 0.10.0'
